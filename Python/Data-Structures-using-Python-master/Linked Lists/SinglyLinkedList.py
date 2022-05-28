@@ -111,3 +111,9 @@ if __name__ == '__main__':
     List.printLinkedList()
     print()
     print(List.search(List.head, 1))
+    
+    
+    
+    # 4 1 2 5 3 6 
+    # 4 1 2 5 6 
+    # True
