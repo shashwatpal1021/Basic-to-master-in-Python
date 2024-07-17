@@ -2,9 +2,10 @@
 
 # Data Structures with Python
 
+
 <!-- TOC -->
 
-*   [Data Structures with Python](#data-structures-with-python)
+*   [Data Structures with Python](#data-structures-with-python)-
     *   [PYDS-12.0: Arrays](#pyds-120-arrays)
     *   [PYDS-12.1: Low Level Arrays](#pyds-121-low-level-arrays)
     *   [PYDS 12.2: Amotization](#pyds-122-amotization)
