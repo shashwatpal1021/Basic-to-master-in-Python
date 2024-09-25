@@ -2,7 +2,6 @@
 
 # Data Structures with Python
 
-
 <!-- TOC -->
 
 *   [Data Structures with Python](#data-structures-with-python)-
