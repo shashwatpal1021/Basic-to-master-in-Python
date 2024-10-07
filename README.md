@@ -5,9 +5,6 @@
 
 
 
-
-
-
 <!-- TOC -->
 *   [Data Structures with Python](#data-structures-with-python)-
     *   [PYDS-12.0: Arrays](#pyds-120-arrays)
