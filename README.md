@@ -103,6 +103,7 @@ _Review_
 *   Low-level array representation
 *   Referential arrays
 
+
 ## PYDS 12.2: Amotization
 
 Using amortization, we can show that performing a sequence of such append operations on a dynamic array is actually quite efficient!
